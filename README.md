@@ -2,4 +2,4 @@
 hello
 demo 
 <br>
-this is a demo reository
+this is a demo repository
